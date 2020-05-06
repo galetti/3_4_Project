@@ -30,4 +30,4 @@ The set of variables that were estimated from these signals are:
 mean(): Mean value
 std(): Standard deviation
 
-Finally, in the tidy dataset, you are presented with the mean value of each of these variables´, grouped by testsubject and activity.
+Finally, in the tidy dataset, you are presented with the mean value of each of these variables, grouped by testsubject and activity.
